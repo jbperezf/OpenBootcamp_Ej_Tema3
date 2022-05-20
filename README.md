@@ -1,2 +1,4 @@
 # OpenBootcamp_Ej_Tema3
-OpenBootcamp. Intro: Ejercicio Tema 3 (Java)
+
+OpenBootcamp, Introducción a la programación. 
+Ejercicio Tema 3 - Java.
